@@ -70,8 +70,8 @@
   - use python manage.py makemigrations
   - use python manage.py migrate
   - user python manage.py runserver to use the apis
-
-               - 
+# Postman API documentation 
+  - [POSTMAN API DOCUMENTATION](https://documenter.getpostman.com/view/20930953/2s9YyzdxxJ)
                
      
     
